@@ -11,6 +11,7 @@ I am a Data Analyst | Cloud enthusiast | Python Developer
 
 ## 📫 Connect with me
 LinkedIn : https://www.linkedin.com/in/meghana-pruthvi-veerabomma/
+Medium : https://medium.com/@meghanapruthvi.03
 
 ## My Profile
 Hackerrank : https://www.hackerrank.com/profile/meghanapruthvi_1
